@@ -1,0 +1,9 @@
+g:\Projects\IConAndLunchImage\IConAndLunchImage\bin\Debug\IConAndLunchImage.exe.config
+g:\Projects\IConAndLunchImage\IConAndLunchImage\bin\Debug\IConAndLunchImage.exe
+g:\Projects\IConAndLunchImage\IConAndLunchImage\bin\Debug\IConAndLunchImage.pdb
+g:\Projects\IConAndLunchImage\IConAndLunchImage\obj\Debug\IConAndLunchImage.csprojResolveAssemblyReference.cache
+g:\Projects\IConAndLunchImage\IConAndLunchImage\obj\Debug\IConAndLunchImage.Form1.resources
+g:\Projects\IConAndLunchImage\IConAndLunchImage\obj\Debug\IConAndLunchImage.Properties.Resources.resources
+g:\Projects\IConAndLunchImage\IConAndLunchImage\obj\Debug\IConAndLunchImage.csproj.GenerateResource.Cache
+g:\Projects\IConAndLunchImage\IConAndLunchImage\obj\Debug\IConAndLunchImage.exe
+g:\Projects\IConAndLunchImage\IConAndLunchImage\obj\Debug\IConAndLunchImage.pdb
